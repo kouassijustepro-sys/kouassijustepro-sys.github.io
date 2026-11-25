@@ -1,0 +1,1 @@
+import{E as e,h as t,k as n}from"./index-B31mA6nH.js";import{r}from"./horsligne-DcHDzMjn.js";async function i(i={}){n(),await t(),await r(),i.garderPremierLancement&&e(e=>({...e,premierLancement:!1}))}export{i as t};
